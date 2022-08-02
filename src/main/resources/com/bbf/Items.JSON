@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Gold",
+    "base_value": 3
+  },
+  {
+    "type": "Silver",
+    "base_value": 2
+  },
+  {
+    "type": "Copper",
+    "base_value": 1
+  },
+  {
+    "type": "Health Potion",
+    "base_value": 1
+  }
+]

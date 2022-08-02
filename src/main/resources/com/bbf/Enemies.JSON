@@ -1,0 +1,18 @@
+[
+    {
+    "type": "Goblin",
+    "health": 3,
+    "attack": 1,
+    "xp_value": 2,
+    "gold":3,
+    "armor": 0
+    },
+    {
+        "type": "gobbo",
+        "health": 3,
+        "attack": 1,
+        "xp_value": 2,
+        "gold":3,
+        "armor": 0
+    }
+]
